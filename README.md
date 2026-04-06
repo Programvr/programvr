@@ -36,7 +36,8 @@ Me especializo en la implementación de **microservicios escalables**, desarroll
 ✔️ Gestioné infraestructura en AWS (EC2, S3, RDS, IAM), logrando escalabilidad, seguridad y reducción de costos operativos en ~15%.
 ✔️ Implementé soluciones de almacenamiento y procesamiento de datos en la nube (S3 + Glue), facilitando análisis en tiempo real.
 ✔️ Monitoreé y optimicé recursos AWS con CloudWatch y Trusted Advisor, alcanzando una eficiencia operativa del 95%.
-📜 [Ver más experiencia aquí](https://www.linkedin.com/in/marlon-valbuena-98805519a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+###📜 [Ver más experiencia aquí](https://www.linkedin.com/in/marlon-valbuena-98805519a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
